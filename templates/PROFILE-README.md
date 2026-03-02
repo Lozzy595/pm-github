@@ -17,7 +17,7 @@ I'm exploring building AI agents that automate PM workflows.
 | [Project 3](link) | [One line] | Zapier, GPT-4 |
 
 ## Connect
-- 💼 [LinkedIn]([your-link](https://www.linkedin.com/in/laurenchoi1095/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/laurenchoi1095/])
 - 📧 lauren.choi.1095@gmail.com
 
 ---
