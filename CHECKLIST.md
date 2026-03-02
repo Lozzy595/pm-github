@@ -4,8 +4,8 @@
 - [X] Create GitHub account (use your real name as username)
 - [X] Add bio: "PM building [specific thing]. Shipping [type of projects]."
 - [X] Add location, LinkedIn link, portfolio link
-- [ ] Create profile README repo (repo name = your username)
-- [ ] Write profile README using `templates/PROFILE-README.md`
+- [X] Create profile README repo (repo name = your username)
+- [X] Write profile README using `templates/PROFILE-README.md`
 - [ ] Install Cursor (cursor.sh) or Claude Code (docs.claude.com/claude-code)
 - [ ] Connect GitHub account to your coding tool
 
