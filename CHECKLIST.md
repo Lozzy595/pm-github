@@ -6,8 +6,8 @@
 - [X] Add location, LinkedIn link, portfolio link
 - [X] Create profile README repo (repo name = your username)
 - [X] Write profile README using `templates/PROFILE-README.md`
-- [ ] Install Cursor (cursor.sh) or Claude Code (docs.claude.com/claude-code)
-- [ ] Connect GitHub account to your coding tool
+- [X] Install Cursor (cursor.sh) or Claude Code (docs.claude.com/claude-code)
+- [X] Connect GitHub account to your coding tool
 
 ## Day 2: First Repository
 - [ ] Pick a project idea (start with a problem you actually have)
